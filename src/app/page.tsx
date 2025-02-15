@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from 'react';
-import { Terminal, Cpu, Zap, Github, MessageCircle } from 'lucide-react';
+import { Terminal, Cpu, Zap, MessageCircle } from 'lucide-react';
 import Particles from "react-tsparticles";
 // import { loadFull } from "tsparticles";
 import { loadSlim } from "tsparticles-slim"; // Use slim version
