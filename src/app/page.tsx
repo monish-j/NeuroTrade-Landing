@@ -62,11 +62,11 @@ const NeuroTrade: React.FC = () => {
           </span>
         </div>
         <div className="flex gap-6">
-          <a href="https://t.me/neurotrade" target="_blank" rel="noopener noreferrer" 
+          <a href="https://t.me/" target="_blank" rel="noopener noreferrer" 
              className="text-cyan-400 hover:text-pink-400 transition-colors">
             <MessageCircle className="w-6 h-6" />
           </a>
-          <a href="https://x.com/neurotrade" target="_blank" rel="noopener noreferrer"
+          <a href="https://x.com/" target="_blank" rel="noopener noreferrer"
              className="text-cyan-400 hover:text-pink-400 transition-colors">
             <Terminal className="w-6 h-6" />
           </a>
